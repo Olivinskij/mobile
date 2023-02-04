@@ -1,20 +1,9 @@
 [
     {
-      "color": "ffa500",
-      "dopname": "(X2 акции)",
+      "color": "FF0000",
+      "dopname": "(X2)",
       "maxonline": 1000,
-      "name": "CRIME 01",
-      "online": 857,
-      "server_status": true,
-      "server_num": "1"
-    },
-   {
-      "color": "fff000",
-      "dopname": "(X2 акции)",
-      "maxonline": 1000,
-      "name": "CRIME 02",
-      "online": 0,
-      "server_status": true,
-      "server_num": "2"
+      "name": "RED",
+      "online": 985
     }
 ]
